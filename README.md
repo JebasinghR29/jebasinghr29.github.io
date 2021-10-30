@@ -1,7 +1,4 @@
-git config --global --replace-all user.name "Parcosm"
-git config --global --replace-all user.email "jebasinghr3.gmail.com"
 <html>
-  
   <head>
     <h1 style="font-family:monospace;"><p style="color:#4C4C4C">PARACOSM</p></h1>
     <br>
